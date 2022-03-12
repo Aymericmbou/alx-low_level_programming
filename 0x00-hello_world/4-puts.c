@@ -3,7 +3,7 @@ int main (void)
 {
 	char text[100] = "programming is like building a multilingual puzzle \n";
 	
-	puts(text);
+	puts (text);
 
-	return 0;
+	return (0); 
 }
