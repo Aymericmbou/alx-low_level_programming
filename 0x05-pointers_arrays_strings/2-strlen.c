@@ -3,16 +3,10 @@
 
 
 /**
- *
- *  * _strlen - Return the qty f bytes that a string has
- *
- *   * @s: The string
- *
- *    *
- *
- *     * Return: The long of the string as an integer number
- *
- *      */
+ *_strlen - Return the qty f bytes that a string has
+ *@s: The string
+ *Return: The long of the string as an integer number
+ */
 
 int _strlen(char *s)
 
