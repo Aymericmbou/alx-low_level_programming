@@ -4,7 +4,6 @@
  * swap_int - swap values of to interger
  * @a: the value
  * @b: the value
- *
  * Return: none 
  */
 
